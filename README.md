@@ -1,5 +1,5 @@
 # rtl8814ae_comfast
-I got a linux driver for rtl8814ae_comfast, but it only support up to kernel version 4.4, so I managed to extinguish all the make errors, but after being inserted the module just does not work and I got no wireless interface.
+I got a linux driver for rtl8814ae_comfast, but it only support up to kernel version 4.4, so I managed to extinguish all the make errors, but after being inserted the module just does not work and I got no wireless interface.  
 Now I upload it to github, hoping to get some assist.
 
 # commits I made
