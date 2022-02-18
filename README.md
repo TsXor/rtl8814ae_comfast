@@ -1,3 +1,8 @@
+# NOT WORKING
+**AND THERE'S NO WORKING DRIVER FOR THIS REALTEK CHIP.**  
+You can sell this to a Windows user and buy a Qualcomm/Intel pcie wireless adapter.  
+btw, this comfast adapter is TRASH. It will not recognize 5GHz network on Windows 7/8/8.1, and WILL NOT WORK on Windows 10. Just DO NOT BUY this comfast thing.
+
 # rtl8814ae_comfast
 I got a linux driver for rtl8814ae_comfast, but it only support up to kernel version 4.4, so I managed to extinguish all the make errors, but after I inserted the module, it just did not work and I got no wireless interface.  
 Now I upload it to github, hoping to get some assist.
